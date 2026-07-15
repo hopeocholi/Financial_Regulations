@@ -1,6 +1,6 @@
 # Financial Regulations: Quantitative Models and Regulatory Analysis
 
-A three-part FinTech submission pairing a written analysis of EU financial regulation with a fully cross-verified quantitative toolkit implemented three ways: Excel/VBA, Python, and an R check.
+A three-part FinTech delivery, pairing a written analysis of EU financial regulation with a fully cross-verified quantitative toolkit implemented three ways: Excel/VBA, Python, and an R check.
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Excel VBA](https://img.shields.io/badge/Excel-VBA%20UDFs-217346)
