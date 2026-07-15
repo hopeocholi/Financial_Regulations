@@ -8,7 +8,7 @@ A three-part MSc FinTech submission pairing a written analysis of EU financial r
 ![Cross--verified](https://img.shields.io/badge/Excel%E2%86%94Python-4dp%20match-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-Author: **Hope Eneojo Ocholi** — MSc FinTech, National College of Ireland (module H9FR2, Financial Regulations).
+Author: **Hope Eneojo Ocholi**
 
 ---
 
