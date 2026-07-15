@@ -1,6 +1,6 @@
 # Financial Regulations: Quantitative Models and Regulatory Analysis
 
-A three-part MSc FinTech submission pairing a written analysis of EU financial regulation with a fully cross-verified quantitative toolkit implemented three ways: Excel/VBA, Python, and an R check.
+A three-part FinTech delivery, pairing a written analysis of EU financial regulation with a fully cross-verified quantitative toolkit implemented three ways: Excel/VBA, Python, and an R check.
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Excel VBA](https://img.shields.io/badge/Excel-VBA%20UDFs-217346)
@@ -75,22 +75,6 @@ Eight models span fixed income, options and portfolio risk. Each is a first-prin
 ├── docs/                    # Model notes and workbook guide
 ├── requirements.txt
 └── README.md
-```
-
-## Quickstart
-
-```bash
-git clone https://github.com/<your-username>/financial-regulations-quant.git
-cd financial-regulations-quant
-
-python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-
-# run the cross-verification tests
-pytest -q
-
-# open the verification notebook
-jupyter lab notebooks/H9FR2_CA1_verification.ipynb
 ```
 
 ### Using the library directly
